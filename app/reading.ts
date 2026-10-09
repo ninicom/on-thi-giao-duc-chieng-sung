@@ -1,0 +1,2 @@
+import type {Source} from './types';
+export function readingUnitsFor(s:Source){return Array.from({length:Math.max(1,Math.ceil((s.page_count??1)/4))},(_,i)=>{const start=i*4+1,end=Math.min(s.page_count??1,start+3);return {id:encodeURIComponent(s.id)+'@'+start,start,end,label:s.page_count?'Trang '+start+(end>start?'–'+end:''):'Toàn bộ tài liệu',url:s.page_count?s.download_url+'#page='+start:s.download_url}})}

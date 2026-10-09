@@ -1,0 +1,12 @@
+import {dailyLessons,dailyQuestionIds} from '../.sites-runtime/schedule.mjs';
+import {readFileSync} from 'node:fs';
+const curriculum=JSON.parse(readFileSync(new URL('../app/course.json',import.meta.url),'utf8'));
+const allLessons=curriculum.topics.flatMap(t=>t.lessons);
+const lessons=allLessons.filter(l=>!l.supplemental);
+const ids=Object.values(dailyLessons).flat().map(l=>l.id);
+if(ids.length!==lessons.length||new Set(ids).size!==lessons.length||lessons.some(l=>!ids.includes(l.id)))throw Error('Lessons are missing or assigned more than once');
+for(let day=1;day<=12;day++)if(dailyLessons[day].length>6)throw Error('Daily load exceeded');
+if(dailyLessons[13].length>4||dailyLessons[14].length>2||dailyLessons[15].length>6)throw Error('Mock day overloaded');
+const questionIds=allLessons.flatMap(l=>l.questions.map(q=>q.id)),assigned=Object.values(dailyQuestionIds).flat();
+if(assigned.length!==questionIds.length||new Set(assigned).size!==questionIds.length||questionIds.some(id=>!assigned.includes(id)))throw Error('Questions missing or assigned more than once');
+console.log(JSON.stringify({coreLessonsScheduled:ids.length,readingLessons:allLessons.length,questionsScheduled:assigned.length,questionCountsByDay:Object.fromEntries(Object.entries(dailyQuestionIds).map(([d,items])=>[d,items.length]))},null,2));

@@ -1,0 +1,20 @@
+import {build} from 'esbuild';
+import postcss from 'postcss';
+import tailwind from '@tailwindcss/postcss';
+import {readFile,writeFile,mkdir,cp} from 'node:fs/promises';
+import {resolve,join} from 'node:path';
+
+const root=resolve(import.meta.dirname,'..');
+process.chdir(root);
+const output=join(root,'dist');
+await mkdir(output,{recursive:true});
+const course=JSON.parse(await readFile('app/course.json','utf8'));
+const lessons=course.topics.flatMap(topic=>topic.lessons),questions=lessons.flatMap(lesson=>lesson.questions);
+const result=await build({entryPoints:['app/offline-entry.tsx'],bundle:true,write:false,minify:true,format:'iife',platform:'browser',target:['es2022'],jsx:'automatic',define:{'process.env.NODE_ENV':'"production"'},legalComments:'none'});
+const styles=await postcss([tailwind({base:root})]).process(await readFile('app/globals.css','utf8'),{from:join(root,'app/globals.css')});
+const script=result.outputFiles[0].text.replace(/<\/script/gi,'<\\/script');
+const favicon=await readFile('public/favicon.svg','utf8');
+const html=`<!doctype html><html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#13294e"><meta name="description" content="Luyện thi công chức giáo dục và đào tạo Chiềng Sung: ${questions.length} câu, ${lessons.length} bài và lộ trình 15 ngày."><title>Luyện đề · Chiềng Sung</title><link rel="icon" href="data:image/svg+xml,${encodeURIComponent(favicon)}"><style>${styles.css}</style></head><body><div id="root"></div><noscript>Hãy bật JavaScript để làm bài luyện.</noscript><script>${script}</script></body></html>`;
+await cp('public',output,{recursive:true});
+await writeFile(join(output,'index.html'),html,'utf8');
+console.log(JSON.stringify({output:'dist',topics:course.topics.length,lessons:lessons.length,questions:questions.length,htmlBytes:Buffer.byteLength(html)}));

@@ -1,0 +1,10 @@
+export type Reading={sourceId:string;articles:string|string[];sourceUrl?:string};
+export type Question={id:string;stem:string;choices:string[];answer:number;explanation:string;sourceId:string;article:string;sourceUrl?:string;lessonId:string;topicId:string;group:'general'|'education'};
+export type Lesson={id:string;title:string;minutes:number;example:string;points:string[];recallPrompt:string;recallAnswer:string;reading:Reading[];questions:Question[];supplemental?:boolean};
+export type Topic={id:string;title:string;group:'general'|'education';day:number;sourceIds:string[];lessons:Lesson[]};
+export type Source={id:string;title:string;source_url:string;download_url:string;file:string;page_count:number|null;group:string;bytes:number};
+export type LessonProgress={done:boolean;recall:number|null;recallCued:boolean;reviews:number;streak:number;due:string|null;lastReviewed:string|null;note:string};
+export type QuestionProgress={attempts:number;correct:number;wrong:number;lastCorrect:boolean;bookmark:boolean};
+export type Attempt={id:string;mode:string;group:string;lessonId?:string;questionIds:string[];answers:Record<string,number>;startedAt:string;deadlineAt:string|null;submittedAt:string|null;score:number|null};
+export type StudyState={schemaVersion:1;startDate:string;dailyTarget:number;lessons:Record<string,LessonProgress>;questions:Record<string,QuestionProgress>;reading:Record<string,boolean>;readingPages:Record<string,boolean>;sessions:{id:string;day:string;seconds:number;lessonId:string|null;at:string}[];attempts:Attempt[];activeAttempt:Attempt|null;days:Record<string,boolean>};
+export type Profile={version:number;state:StudyState;updatedAt:string};

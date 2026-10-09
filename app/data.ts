@@ -1,0 +1,11 @@
+import course from './course.json';
+import documents from './sources.json';
+import type {Topic,Source,Lesson,Question} from './types';
+export const topics=course.topics as Topic[];
+export const sources=(documents as Source[]).map(s=>({...s,download_url:'./downloads/originals/'+s.file.split('/').map(encodeURIComponent).join('/')}));
+export const lessons:Lesson[]=topics.flatMap(t=>t.lessons);
+export const questions:Question[]=lessons.flatMap(l=>l.questions);
+export const lessonMap=new Map(lessons.map(l=>[l.id,l]));
+export const questionMap=new Map(questions.map(q=>[q.id,q]));
+export const sourceMap=new Map(sources.map(s=>[s.id,s]));
+export const topicOf=(id:string)=>topics.find(t=>t.lessons.some(l=>l.id===id));
