@@ -27,7 +27,8 @@ Tài liệu nguồn được đối chiếu ngày **06/10/2026**. Câu hỏi đ�
 ## Các chức năng
 
 - Khởi động bằng 5 câu, luyện câu chưa làm, câu đang sai và câu đã đánh dấu.
-- Tìm câu hỏi theo nội dung, nhóm kiến thức, chủ đề và trạng thái.
+- Tìm câu hỏi theo nội dung, tên văn bản, số hiệu, điều khoản, nhóm kiến thức, chủ đề và trạng thái.
+- Hiện đầy đủ tên văn bản và điều/khoản trước câu hỏi; phần học và giải đáp làm rõ nội dung liên quan, văn bản gốc và bản sửa đổi/đính chính. Đề tính giờ chỉ hiện tên/căn cứ trước khi nộp bài.
 - Làm đề kiến thức chung 60 câu/60 phút; luyện giáo dục 60 câu/90 phút; tùy chỉnh số câu và thời gian.
 - Phân bố câu trong đề tính giờ giữa các chủ đề, không lặp trong cùng bài.
 - Đồng hồ tính theo thời điểm hết hạn và tiếp tục chạy khi rời trang; hết giờ tự chấm các lựa chọn đã có.

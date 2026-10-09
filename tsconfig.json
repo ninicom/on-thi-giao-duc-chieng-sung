@@ -32,6 +32,7 @@
     "hooks/**/*.ts",
     "lib/**/*.ts",
     "vite.config.ts",
-    "scripts/verify-local.ts"
+    "scripts/verify-local.ts",
+    "scripts/verify-citations.ts"
   ]
 }

@@ -11,3 +11,5 @@ await build({entryPoints:['scripts/verify-local.ts'],bundle:true,platform:'node'
 await import(pathToFileURL(resolve('.sites-runtime/verify-local.mjs')).href);
 await build({entryPoints:['app/schedule.ts'],bundle:true,platform:'node',format:'esm',outfile:'.sites-runtime/schedule.mjs'});
 await import('./check-schedule.mjs');
+await build({entryPoints:['scripts/verify-citations.ts'],bundle:true,platform:'node',format:'esm',packages:'external',jsx:'automatic',outfile:'.sites-runtime/verify-citations.mjs'});
+await import(pathToFileURL(resolve('.sites-runtime/verify-citations.mjs')).href);

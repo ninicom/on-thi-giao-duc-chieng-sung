@@ -1,0 +1,2404 @@
+{
+  "questions": {
+    "g02-3-q2": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 9 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "g02-3-q4": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 9 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g02-3-q5": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 9 khoản 2"
+      }
+    },
+    "g02-3-q6": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 10"
+      }
+    },
+    "g02-3-q7": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 84 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g02-3-q8": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 110 khoản 2"
+      }
+    },
+    "g02-3-q9": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 110 khoản 3"
+      }
+    },
+    "g02-3-q10": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 111 khoản 3"
+      }
+    },
+    "g04-1-q10": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 28 khoản 2"
+      }
+    },
+    "g04-1-q11": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 17 khoản 1"
+      }
+    },
+    "g04-2-q1": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 15 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g04-2-q2": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 8 khoản 2 điểm d"
+      }
+    },
+    "g04-2-q3": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 8 khoản 3a; Điều 10"
+      }
+    },
+    "g04-2-q6": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 61 khoản 1 điểm a"
+      }
+    },
+    "g04-2-q7": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 65 khoản 3–4"
+      }
+    },
+    "g04-3-q1": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 35 khoản 1 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "g04-3-q2": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 36 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "g04-3-q3": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 33 khoản 3"
+      }
+    },
+    "g04-3-q4": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 30 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g04-3-q5": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 30 khoản 7"
+      },
+      "showBeforeAnswer": true
+    },
+    "g04-3-q6": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 41 khoản 1 điểm b"
+      }
+    },
+    "g04-3-q7": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 42 khoản 1 điểm e"
+      }
+    },
+    "g04-3-q8": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 44 khoản 1"
+      }
+    },
+    "g04-3-q11": {
+      "subject": {
+        "sourceId": "36/2018/QH14",
+        "articles": "Điều 51 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "g05-1-q2": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 3a"
+      },
+      "showBeforeAnswer": true
+    },
+    "g05-1-q8": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 7 khoản 2 điểm a"
+      }
+    },
+    "g05-1-q11": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 3a khoản 2"
+      }
+    },
+    "g05-2-q3": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 8 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "g05-2-q8": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 16 khoản 1"
+      }
+    },
+    "g05-2-q9": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 22 khoản 1–3"
+      },
+      "showBeforeAnswer": true
+    },
+    "g05-3-q1": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 15 khoản 2 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "g05-3-q2": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 26 khoản 1 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "g05-3-q10": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 26 khoản 1 điểm b"
+      }
+    },
+    "g05-3-q11": {
+      "subject": {
+        "sourceId": "42/2013/QH13",
+        "articles": "Điều 33 khoản 1"
+      }
+    },
+    "g06-1-q2": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 4 khoản 15"
+      },
+      "showBeforeAnswer": true
+    },
+    "g06-1-q3": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 4 khoản 12"
+      },
+      "showBeforeAnswer": true
+    },
+    "g06-1-q5": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 4 khoản 6"
+      }
+    },
+    "g06-1-q7": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 21 khoản 3 điểm a"
+      }
+    },
+    "g06-2-q2": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 33 khoản 3 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "g06-2-q3": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 29 khoản 2 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "g06-2-q4": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 23 khoản 1"
+      }
+    },
+    "g06-2-q5": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 24 khoản 1"
+      }
+    },
+    "g06-2-q6": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 31 khoản 1"
+      }
+    },
+    "g06-2-q7": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 37 khoản 1"
+      }
+    },
+    "g06-2-q10": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 50 khoản 2 điểm đ"
+      }
+    },
+    "g06-2-q11": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 51 khoản 5 điểm d"
+      }
+    },
+    "g06-3-q2": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 55 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "g06-3-q3": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 57 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "g06-3-q8": {
+      "subject": {
+        "sourceId": "64/2025/QH15",
+        "articles": "Điều 64 khoản 8"
+      }
+    },
+    "g08-1-q2": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 6 khoản 1 điểm c"
+      }
+    },
+    "g08-1-q9": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 13 khoản 2 điểm c"
+      }
+    },
+    "g08-1-q10": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 13 khoản 2 điểm d"
+      }
+    },
+    "g08-1-q11": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 13 khoản 2 điểm đ"
+      }
+    },
+    "g08-3-q1": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 18 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g08-3-q2": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 19 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g08-3-q3": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 23 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g08-3-q5": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 26 khoản 2"
+      }
+    },
+    "g08-3-q6": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 27 khoản 2"
+      }
+    },
+    "g08-3-q7": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 27 khoản 1"
+      }
+    },
+    "g08-3-q8": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 29 khoản 5"
+      }
+    },
+    "g08-3-q9": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 29 khoản 9 điểm d"
+      }
+    },
+    "g08-3-q10": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 36 khoản 1"
+      }
+    },
+    "g08-3-q11": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 36 khoản 5"
+      }
+    },
+    "g08-3-q12": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 51a khoản 2–3"
+      }
+    },
+    "g08-3-q13": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 53 khoản 1 điểm d"
+      }
+    },
+    "g08-3-q14": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 55 khoản 1 điểm c"
+      }
+    },
+    "g08-3-q15": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 56 khoản 3 điểm b"
+      }
+    },
+    "g08-3-q16": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 56 khoản 9 điểm a–b"
+      }
+    },
+    "g08-3-q17": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 56 khoản 5 điểm a–b"
+      }
+    },
+    "g08-3-q18": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 58 khoản 1 điểm a, khoản 4"
+      },
+      "showBeforeAnswer": true
+    },
+    "g08-3-q19": {
+      "subject": {
+        "sourceId": "170/2025/NĐ-CP",
+        "articles": "Điều 68"
+      }
+    },
+    "g09-1-q8": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 6 khoản 2 điểm a"
+      }
+    },
+    "g09-1-q9": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 6 khoản 2 điểm b"
+      }
+    },
+    "g09-1-q10": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 6 khoản 3 điểm a"
+      }
+    },
+    "g09-1-q11": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 6 khoản 1 điểm b"
+      }
+    },
+    "g09-2-q1": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 11 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g09-2-q4": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 13 khoản 1"
+      }
+    },
+    "g09-2-q5": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 13 khoản 2"
+      }
+    },
+    "g09-2-q9": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 15 khoản 1 điểm a"
+      }
+    },
+    "g09-2-q10": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 15 khoản 3 điểm c"
+      }
+    },
+    "g09-3-q1": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 13 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "g09-3-q2": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 16 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g09-3-q3": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 16 khoản 1–2"
+      }
+    },
+    "g09-3-q4": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 2 khoản 2a"
+      }
+    },
+    "g09-3-q8": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 16 khoản 2"
+      }
+    },
+    "g09-3-q9": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 23 khoản 1 điểm a"
+      }
+    },
+    "g09-3-q10": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 23 khoản 1 điểm b"
+      }
+    },
+    "g09-3-q11": {
+      "subject": {
+        "sourceId": "150/2025/NĐ-CP",
+        "articles": "Điều 23 khoản 4"
+      }
+    },
+    "e01-3-q3": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 32 khoản 2 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-4-q1": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 12 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-4-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 34 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-4-q3": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 12 khoản 4"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q1": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 35 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 35 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q3": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 44 khoản 4"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q4": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 45 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q5": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 52 khoản 2 điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q6": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 52 khoản 2 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q7": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 52 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-7-q8": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 52 khoản 4"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 55 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q3": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 55 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q4": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 54 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q5": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 66 khoản 1 điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q6": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 66a khoản 1 điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q7": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 66a khoản 2 điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-8-q8": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 66b khoản 1 điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q1": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 96 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 99 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q3": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 99 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q4": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 99 khoản 4 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q5": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 99 khoản 4 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q6": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 85 khoản 1 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q7": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 85 khoản 4a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-11-q8": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 85 khoản 4a điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q1": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 102 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 105 khoản 5"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q3": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 107 khoản 2a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q4": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 109 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q5": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 109 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q6": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 110 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-12-q7": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 110 khoản 3"
+      },
+      "showBeforeAnswer": true
+    },
+    "e05-1-q1": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 6 khoản 1 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-1-q2": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 6 khoản 2 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-2-q1": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 16 khoản 3 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-2-q2": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 16 khoản 3 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-2-q3": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 16 khoản 6 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-3-q1": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 31 khoản 1 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-3-q2": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 31 khoản 2 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-3-q3": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 31 khoản 3 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-4-q1": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 33 khoản 6 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-4-q2": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 38 khoản 3 điểm a của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-4-q3": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 38 khoản 3 điểm d của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q1": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 14 khoản 1 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q2": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 14 khoản 3 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q3": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 17 khoản 2 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q4": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 17 khoản 3 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q5": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 17 khoản 5 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q6": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 21 khoản 4 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q7": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 26 khoản 3 điểm b của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-5-q8": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 22 khoản 2 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q1": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 34 khoản 3 điểm b của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q2": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 34 khoản 3 điểm b của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q3": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 34 khoản 3 điểm c của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q4": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 34 khoản 3 điểm d của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q5": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 34 khoản 1 điểm d của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q6": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 35 khoản 5 của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q7": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 36 khoản 2 điểm b của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e05-6-q8": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 37 khoản 3 điểm c của Điều lệ trường phổ thông"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-1-q1": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 3 khoản 2 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-2-q1": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 15 khoản 1 điểm a của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-2-q2": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 15 khoản 1 điểm b của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-2-q3": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 15 khoản 2 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-3-q1": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 16 khoản 3 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-3-q2": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 33 khoản 4 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-3-q3": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 27 khoản 4 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q1": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 20 khoản 1 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q2": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 20 khoản 2 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q3": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 20 khoản 2 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q4": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 17 khoản 1 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q5": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 18 khoản 1 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q6": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 21 khoản 3 điểm b, c của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q7": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 21 khoản 4 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-5-q8": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 21 khoản 4 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q1": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 26 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q2": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 28 khoản 1 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q3": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 28 khoản 3 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q4": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 25 khoản 1 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q5": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 29 khoản 4 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q6": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 32 khoản 2 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q7": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 36 khoản 3 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e06-6-q8": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 36 khoản 4 của Điều lệ trường mầm non"
+      },
+      "note": "Các điều này thuộc Điều lệ ban hành kèm Thông tư.",
+      "showBeforeAnswer": true
+    },
+    "e08-4-q1": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 34 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "g02-3-q1": {
+      "subject": {
+        "sourceId": "Hiến pháp 2013",
+        "articles": "Điều 110 khoản 1"
+      }
+    },
+    "e01-2-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 6 khoản 2 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-3-q1": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 14 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e01-3-q2": {
+      "subject": {
+        "sourceId": "43/2019/QH14",
+        "articles": "Điều 14 khoản 1"
+      },
+      "showBeforeAnswer": true
+    },
+    "e02-1-q1": {
+      "subject": {
+        "sourceId": "73/2025/QH15",
+        "articles": "Điều 4 khoản 1"
+      }
+    },
+    "e02-1-q3": {
+      "subject": {
+        "sourceId": "73/2025/QH15",
+        "articles": "Điều 4 khoản 1"
+      }
+    },
+    "e05-1-q3": {
+      "subject": {
+        "sourceId": "15/2026/TT-BGDĐT",
+        "articles": "Điều 8 của Điều lệ trường phổ thông"
+      },
+      "note": "Đính chính tại Điều 1 Quyết định 1240/QĐ-BGDĐT ngày 19/05/2026.",
+      "showBeforeAnswer": true
+    },
+    "e06-1-q2": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 6 của Điều lệ trường mầm non"
+      },
+      "showBeforeAnswer": true
+    },
+    "e06-1-q3": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 3 khoản 6 của Điều lệ trường mầm non"
+      },
+      "showBeforeAnswer": true
+    },
+    "e06-4-q1": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 9 khoản 3 điểm b của Điều lệ trường mầm non"
+      },
+      "showBeforeAnswer": true
+    },
+    "e06-4-q2": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 9 khoản 3 điểm d của Điều lệ trường mầm non"
+      },
+      "showBeforeAnswer": true
+    },
+    "e06-4-q3": {
+      "subject": {
+        "sourceId": "52/2020/TT-BGDĐT",
+        "articles": "Điều 9 khoản 3 điểm d của Điều lệ trường mầm non"
+      },
+      "showBeforeAnswer": true
+    },
+    "e09-3-q2": {
+      "subject": {
+        "sourceId": "15/2025/TT-BGDĐT",
+        "articles": "Điều 6 khoản 6 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "e09-3-q3": {
+      "subject": {
+        "sourceId": "15/2025/TT-BGDĐT",
+        "articles": "Điều 4 khoản 5"
+      },
+      "showBeforeAnswer": true
+    },
+    "e09-4-q3": {
+      "subject": {
+        "sourceId": "15/2025/TT-BGDĐT",
+        "articles": "Điều 6 khoản 8 điểm c"
+      },
+      "showBeforeAnswer": true
+    },
+    "e10-4-q1": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 17a"
+      }
+    },
+    "e10-4-q2": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 17a"
+      }
+    },
+    "e10-4-q3": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 17a"
+      }
+    },
+    "e10-5-q7": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 5 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "e10-5-q8": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 5 khoản 2"
+      },
+      "showBeforeAnswer": true
+    },
+    "e10-8-q6": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 18 khoản 7 điểm a"
+      },
+      "showBeforeAnswer": true
+    },
+    "e10-8-q7": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 18 khoản 7 điểm b"
+      },
+      "showBeforeAnswer": true
+    },
+    "e10-8-q8": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 18 khoản 8"
+      },
+      "showBeforeAnswer": true
+    },
+    "e07-4-q2": {
+      "subject": {
+        "sourceId": "10/2025/TT-BGDĐT",
+        "articles": "Điều 18"
+      },
+      "note": "Điều 1 đang dẫn là điều của Thông tư 26/2025/TT-BGDĐT; đích sửa đổi là Điều 18 của Thông tư 10/2025/TT-BGDĐT.",
+      "showBeforeAnswer": false
+    },
+    "e07-4-q3": {
+      "subject": {
+        "sourceId": "13/2025/TT-BGDĐT",
+        "articles": "Điều 5 khoản 2"
+      },
+      "note": "Điều 6 của Thông tư 26/2025/TT-BGDĐT sửa khoản 2 Điều 5 của Thông tư 13/2025/TT-BGDĐT.",
+      "showBeforeAnswer": false
+    },
+    "g03-3-q6": {
+      "subject": {
+        "sourceId": "72/2025/QH15",
+        "articles": "Điều 21"
+      },
+      "note": "Điều 21 là vị trí nghị quyết được nhắc trong câu hỏi. Điều 22 khoản 1 là căn cứ trả lời về việc UBND xã xây dựng, trình HĐND và tổ chức thực hiện nghị quyết.",
+      "showBeforeAnswer": true
+    },
+    "e02-10-q7": {
+      "subject": {
+        "sourceId": "73/2025/QH15",
+        "articles": "Điều 29 khoản 1"
+      },
+      "note": "Khoản 1 Điều 29 xác định chương trình được nhắc trong câu hỏi; điểm a khoản 2 Điều 30 là căn cứ trả lời về cách tính thời gian tham gia chương trình.",
+      "showBeforeAnswer": true
+    }
+  },
+  "points": {
+    "g02-3": [
+      [
+        {
+          "sourceId": "Hiến pháp 2013",
+          "articles": "Điều 9; Điều 10; Điều 84 khoản 1; Điều 110; Điều 111"
+        },
+        {
+          "sourceId": "203/2025/QH15",
+          "articles": "Điều 1 khoản 1–5"
+        }
+      ],
+      [
+        {
+          "sourceId": "Hiến pháp 2013",
+          "articles": "Điều 110"
+        },
+        {
+          "sourceId": "203/2025/QH15",
+          "articles": "Điều 1 khoản 4; Điều 2 khoản 2"
+        }
+      ],
+      [
+        {
+          "sourceId": "Hiến pháp 2013",
+          "articles": "Điều 111"
+        },
+        {
+          "sourceId": "203/2025/QH15",
+          "articles": "Điều 1 khoản 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "Hiến pháp 2013",
+          "articles": "Điều 9 khoản 2; Điều 10"
+        },
+        {
+          "sourceId": "203/2025/QH15",
+          "articles": "Điều 1 khoản 1–2"
+        }
+      ],
+      [
+        {
+          "sourceId": "Hiến pháp 2013",
+          "articles": "Điều 84 khoản 1"
+        },
+        {
+          "sourceId": "203/2025/QH15",
+          "articles": "Điều 1 khoản 3; Điều 2 khoản 1"
+        }
+      ]
+    ],
+    "g04-1": [
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 3 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 22 khoản 2"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 23 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 23"
+        }
+      ]
+    ],
+    "g04-2": [
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 10"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 15 khoản 1"
+        },
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 3 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 8 khoản 2 điểm d"
+        },
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 2 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 8 khoản 3a; Điều 10"
+        },
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 2 điểm b"
+        }
+      ]
+    ],
+    "g04-3": [
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 33"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 35 khoản 1 điểm b"
+        },
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 11"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 36 khoản 2"
+        },
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 12 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "36/2018/QH14",
+          "articles": "Điều 33 khoản 3"
+        },
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 9"
+        }
+      ],
+      [
+        {
+          "sourceId": "132/2025/QH15",
+          "articles": "Điều 1 khoản 11–12; Điều 2"
+        }
+      ]
+    ],
+    "g05-1": [
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 2 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 3a"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 7 khoản 1–2"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 3"
+        }
+      ]
+    ],
+    "g05-2": [
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 8"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 8 khoản 2"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 4"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 9"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 9 khoản 3–4"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 25–26"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 10–11"
+        }
+      ]
+    ],
+    "g05-3": [
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 15 khoản 2 điểm c"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 7"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 15"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 7"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 26 khoản 1 điểm b"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 11"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 28 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "42/2013/QH13",
+          "articles": "Điều 13 (đã bị bãi bỏ)"
+        },
+        {
+          "sourceId": "136/2025/QH15",
+          "articles": "Điều 1 khoản 14–15"
+        }
+      ]
+    ],
+    "g06-1": [
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 2; Điều 3 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 4"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 4"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 21–22"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 3–4"
+        }
+      ]
+    ],
+    "g06-2": [
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 3 khoản 4; Điều 29 khoản 2 điểm b"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 8"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 27–37"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 8–12"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 33 khoản 3 điểm c"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 10 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 6"
+        }
+      ]
+    ],
+    "g06-3": [
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 58"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 58"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 53"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 20"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 55"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 21"
+        }
+      ],
+      [
+        {
+          "sourceId": "64/2025/QH15",
+          "articles": "Điều 57 khoản 2"
+        },
+        {
+          "sourceId": "87/2025/QH15",
+          "articles": "Điều 1 khoản 22; Điều 3"
+        }
+      ]
+    ],
+    "g08-1": [
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 7–8"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 6"
+        },
+        {
+          "sourceId": "300/2026/NĐ-CP",
+          "articles": "Điều 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 6 khoản 1 điểm c"
+        },
+        {
+          "sourceId": "300/2026/NĐ-CP",
+          "articles": "Điều 1"
+        }
+      ]
+    ],
+    "g08-2": [
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 9 khoản 2 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 9 khoản 2, khoản 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 10 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 10"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 10–12; Điều 15"
+        }
+      ]
+    ],
+    "g08-3": [
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 18 khoản 1"
+        },
+        {
+          "sourceId": "300/2026/NĐ-CP",
+          "articles": "Điều 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 18 khoản 2"
+        },
+        {
+          "sourceId": "300/2026/NĐ-CP",
+          "articles": "Điều 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 19 khoản 1"
+        },
+        {
+          "sourceId": "300/2026/NĐ-CP",
+          "articles": "Điều 6"
+        }
+      ],
+      [],
+      [
+        {
+          "sourceId": "170/2025/NĐ-CP",
+          "articles": "Điều 23 khoản 1"
+        },
+        {
+          "sourceId": "300/2026/NĐ-CP",
+          "articles": "Điều 8"
+        }
+      ]
+    ],
+    "g09-1": [
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 18 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 4"
+        }
+      ],
+      []
+    ],
+    "g09-2": [
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 11 khoản 1"
+        },
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 11"
+        },
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 5"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 12"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 15 khoản 3 điểm b"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 14 khoản 3"
+        }
+      ]
+    ],
+    "g09-3": [
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 13 khoản 3"
+        },
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 6"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 16 khoản 1"
+        },
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 8"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 16 khoản 1"
+        },
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 8"
+        }
+      ],
+      [
+        {
+          "sourceId": "150/2025/NĐ-CP",
+          "articles": "Điều 16 khoản 2"
+        },
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 8"
+        }
+      ],
+      [
+        {
+          "sourceId": "370/2025/NĐ-CP",
+          "articles": "Điều 13–14"
+        }
+      ]
+    ],
+    "e01-2": [
+      [
+        {
+          "sourceId": "43/2019/QH14",
+          "articles": "Điều 6 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "43/2019/QH14",
+          "articles": "Điều 6 khoản 2 điểm a, b"
+        }
+      ],
+      [
+        {
+          "sourceId": "43/2019/QH14",
+          "articles": "Điều 6"
+        },
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 1 khoản 1"
+        }
+      ]
+    ],
+    "e02-1": [
+      [
+        {
+          "sourceId": "73/2025/QH15",
+          "articles": "Điều 4 khoản 1"
+        },
+        {
+          "sourceId": "124/2025/QH15",
+          "articles": "Điều 43 khoản 2"
+        }
+      ],
+      [
+        {
+          "sourceId": "73/2025/QH15",
+          "articles": "Điều 4 khoản 1"
+        },
+        {
+          "sourceId": "124/2025/QH15",
+          "articles": "Điều 43 khoản 2"
+        }
+      ],
+      [
+        {
+          "sourceId": "73/2025/QH15",
+          "articles": "Điều 4 khoản 2"
+        }
+      ],
+      [
+        {
+          "sourceId": "73/2025/QH15",
+          "articles": "Điều 4 khoản 1–2"
+        },
+        {
+          "sourceId": "124/2025/QH15",
+          "articles": "Điều 43 khoản 2"
+        }
+      ]
+    ],
+    "e05-1": [
+      [
+        {
+          "sourceId": "15/2026/TT-BGDĐT",
+          "articles": "Điều 6 khoản 1 của Điều lệ trường phổ thông"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2026/TT-BGDĐT",
+          "articles": "Điều 6 khoản 2 của Điều lệ trường phổ thông"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2026/TT-BGDĐT",
+          "articles": "Điều 8 của Điều lệ trường phổ thông"
+        },
+        {
+          "sourceId": "1240/QĐ-BGDĐT (19/05/2026)",
+          "articles": "Điều 1"
+        }
+      ],
+      []
+    ],
+    "e06-1": [
+      [
+        {
+          "sourceId": "52/2020/TT-BGDĐT",
+          "articles": "Điều 3 khoản 2 của Điều lệ trường mầm non"
+        }
+      ],
+      [
+        {
+          "sourceId": "52/2020/TT-BGDĐT",
+          "articles": "Điều 6 của Điều lệ trường mầm non"
+        },
+        {
+          "sourceId": "51/2026/TT-BGDĐT",
+          "articles": "Điều 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "52/2020/TT-BGDĐT",
+          "articles": "Điều 3 khoản 6 của Điều lệ trường mầm non"
+        },
+        {
+          "sourceId": "51/2026/TT-BGDĐT",
+          "articles": "Điều 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "52/2020/TT-BGDĐT",
+          "articles": "Điều 3 khoản 2 của Điều lệ trường mầm non"
+        }
+      ]
+    ],
+    "e07-4": [
+      [
+        {
+          "sourceId": "09/2025/TT-BGDĐT",
+          "articles": "Điều 12 khoản 1–2"
+        }
+      ],
+      [
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 1–8"
+        }
+      ],
+      [
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 1; Điều 4; Điều 6"
+        },
+        {
+          "sourceId": "10/2025/TT-BGDĐT",
+          "articles": "Điều 18"
+        },
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 5 khoản 2"
+        }
+      ]
+    ],
+    "e08-4": [
+      [
+        {
+          "sourceId": "10/2025/TT-BGDĐT",
+          "articles": "Điều 18"
+        },
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "43/2019/QH14",
+          "articles": "Điều 34 khoản 1"
+        },
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 1 khoản 9"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2026/TT-BGDĐT",
+          "articles": "Điều 2 của Thông tư"
+        }
+      ]
+    ],
+    "e09-3": [
+      [
+        {
+          "sourceId": "15/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 6 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 6 điểm c"
+        },
+        {
+          "sourceId": "45/2026/TT-BGDĐT",
+          "articles": "Điều 2 khoản 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2025/TT-BGDĐT",
+          "articles": "Điều 4 khoản 5"
+        },
+        {
+          "sourceId": "45/2026/TT-BGDĐT",
+          "articles": "Điều 1 khoản 4"
+        }
+      ]
+    ],
+    "e09-4": [
+      [
+        {
+          "sourceId": "15/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 12"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 13"
+        }
+      ],
+      [
+        {
+          "sourceId": "15/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 8 điểm c"
+        },
+        {
+          "sourceId": "45/2026/TT-BGDĐT",
+          "articles": "Điều 2 khoản 4"
+        }
+      ]
+    ],
+    "e10-2": [
+      [
+        {
+          "sourceId": "43/2019/QH14",
+          "articles": "Điều 110"
+        },
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 1 khoản 30"
+        }
+      ],
+      [
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 2 khoản 3 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 1, khoản 5"
+        },
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 2 khoản 3 điểm a (chuyển tiếp)"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 6 khoản 5"
+        },
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 2 khoản 3 điểm a (chuyển tiếp)"
+        }
+      ],
+      []
+    ],
+    "e10-5": [
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 5 khoản 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 5 khoản 4 điểm b"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 5 khoản 4 điểm a"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 5 khoản 2"
+        },
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 6"
+        }
+      ],
+      [
+        {
+          "sourceId": "43/2019/QH14",
+          "articles": "Điều 34 khoản 1"
+        },
+        {
+          "sourceId": "123/2025/QH15",
+          "articles": "Điều 1 khoản 9"
+        }
+      ]
+    ],
+    "e10-8": [
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 17 khoản 1"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 18 khoản 4"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 18 khoản 5–6"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 18 khoản 7"
+        },
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 8"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 18 khoản 8"
+        },
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 8"
+        }
+      ]
+    ],
+    "e10-9": [
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 19 khoản 1–2"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 19 khoản 2"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 19 khoản 3"
+        }
+      ],
+      [
+        {
+          "sourceId": "26/2025/TT-BGDĐT",
+          "articles": "Điều 9 khoản 2–3"
+        }
+      ],
+      [
+        {
+          "sourceId": "13/2025/TT-BGDĐT",
+          "articles": "Điều 19 khoản 2"
+        }
+      ]
+    ]
+  }
+}
